@@ -16,6 +16,7 @@ I don't claim to have full knowledge, and probably ;) never will. It is importan
 * A philosopher <sup>**</sup>
 * An astrophysicist <sup>**</sup>
 * A set theory expert <sup>**</sup>
+* A quantum physics expert<sup>**</sup>
 * Interested in religious assertions that are not based in truth
 * Interested in fairy tales that are untrue
 * Interested in truth which refuses to acknowledge spirituality in emotions.
@@ -29,6 +30,6 @@ I've reached a point where only the truth will suffice, whichever comfortable or
 ## Raison d'etre
 
 * To document (and expand upon) my understanding of reality, and to use a no-holds-no-limits-barred approach to understanding truth. No topic is off the table as long as the discussion is salient and civil.
-* To document my internal monologue and criticism on it for my children, my wife and my family and to deepen their understanding while I undergo my own journey in to the unknown.
+* To document my internal monologue and criticism on it for my children, my wife and my family and to deepen their understanding while I undergo my own journey in to the unknown. 
 
 To Yolanda, Lexi and Austin. My love, my heart and my life.

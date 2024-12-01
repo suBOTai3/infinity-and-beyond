@@ -11,7 +11,7 @@ or
 
 I find both of these definitions to be lacking, not because they are wrong, but because Infinity is more than that.
 
-Note that I tend to use the words 'True infinity' or 'infinity' instead of 'All that is' or 'reality', since both the latter terms tend to focus our attention on observably subsets of infinity and this reduces cognitive load, but increases likelyhood of making a mistake in assuming that realit is equal to infinity. Reality is subjective, not objective. It can only be objective if you could observe all of infinity, but since you can't - it is subjective.
+Note that I tend to use the words 'General infinity' or 'infinity' instead of 'All that is' or 'reality', since both the latter terms tend to focus our attention on observably subsets of infinity and this reduces cognitive load, but increases likelyhood of making a mistake in assuming that realit is equal to infinity. Reality is subjective, not objective. It can only be objective if you could observe all of infinity, but since you can't - it is subjective.
 See [reality](reality.md)
 
 ## Definition
@@ -24,23 +24,27 @@ There are 2 main definitions I use:
     * or 'a subset of the larger infinity' - e.g. numbers, time
     * is a subset of general infinity
     * could be countable (but not necessarily)
+    * could be observeable (but not necessarily)
 
-### General Infinity, all that is, is:
+### General Infinity, all that is, all that exists:
 
 General Infinity, all that is, is:
 
-* That which is infinite, or more accurately, `that which is` (this includes `that which is not` since to `not be` means that you have to attempt observation of `that which is not`, which `is` a `that which is` - the observation itself `is`)
+* `In` - not + `Finitus` - finished (Latin)
+* That which is infinite, or perhaps, `that which is` 
+* This includes `that which is not` since to `not be` means that you have to attempt observation of `that which is not`. This attempt `is` a `that which is`
 * It has no beginning, though it contains many beginnings. 
 * It has no end, though it contains many ends
 * All of our observable reality
 * All of our unobservable reality
 * All that is inside and outside our observable reality
+* Infinite in all directions
 * Inside itself
 * Outside itself
 * Has no origin, but its origin is in itself
 * Has no end, but the end is in itself
 * Can be negative, but not false (?)
-* Contains all other subset infinities such as numbers, ranges
+* Contains all other subset infinities such as numbers, ranges. 
 
 General infinity is not:
 
@@ -49,7 +53,26 @@ General infinity is not:
 * A number
 * Describable - it cannot be defined. Assigning definition to it means that inifinity is captured. By definition this is impossible. If you could contain infinity, the set that contains it needs to be greater than infinity, which it cannot. Therefore, description of initinity is a subset of infinity, not the capturing of it. Ininity is not truly describable. We can attempt it, but not complete it.
 * Countable. Yes, I agree, there are countable and uncountable infinities as subsets of the general infinity, but general inifinity itself is uncountable, because one is unable to find the first element which is the start. To count, to enumerate, to define, general infinity, means that you assert that you know the start of infinity. No one can make such a claim. And therefore we can only start at a subset of general infinity, but we cannot count general infinty itself.
+* Segmentable. You cannot truly remove anything from general infinity. You can observe subsets of infinity, but not remove from it. To remove from general infinity you would have to somehow move the thing you have outside of inifinity, which by definition is impossible.
+ 
 
-`Infinity`
+## Minor infinity
 
-That which is infinite
+A minor infinity is a subset of general infinity. It is generally what we observe and work with in our daily lives.
+
+A minor infinity:
+
+ * Could be countable (but doesn't have to be)
+ * Could be observeable (but not necessarily)
+ * Has no beginning
+ * Has no end
+ * Has its origin in general infinity 
+ * Has boundaries that originates in general infinity
+ * Is a subset of general infinity
+
+Examples
+
+* Points on a circle
+* The numbers between 0 and 1
+* Numbers
+* Time
