@@ -24,6 +24,7 @@ And now for the main course: Infinity and its implications for personal reality.
 * [Infinity definition](infnitity.md)
 * [Observation](observation/observation.md)
 * [Reality](reality/reality.md)
-* [General Definitions](definitions.md)
+* Exclusions from the topic (wip)
+* Are we eternal? (wip)
 
-
+See also [General Definitions](definitions.md)
