@@ -2,6 +2,12 @@
 
 Observation is the act of subsetting a larger set.
 
+When observer, the observer (conveniently named 'me' or 'I') creates manageable sets of information to work with. 
+
+I look. By looking, I'm creating a subset of infinity.
+
+I hear. By hearing, I'm creating a subset of infinity.
+ 
 ## Example: An orange
 
 When I look at an orange, I see the 'front' of the orange. I do not observe every molecule, every fibre, every juicy bit.
@@ -25,18 +31,43 @@ What observation is:
 What observation is not:
 * Taking the entire set from a larger set, and using it in its original form. E.g. my view of infinity is not infinity itself. It is a representation, a subset, of the larger set, but it is not _equal_ to the set. I can look at 10 numbers, but not all numbers. I can look at a human, a table, a tree, but I cannot look at infinity. The only way to observe infinity is to be infinite one self.
 
+A note:
+* Being able to observe, to subset, from infinity, does not mean that the subject matter of the observation does not exist outside our observation.
+* The subject matter does exit, but it has not been grouped into a manageble chunk yet.
+* Once the observation is made, the context exists in our range of observation
+* If the observation is fantastical (hallucination), it still exists as a subset to the observer. The greater context here is the observer, which exists as a subset of infinity. In the larger context of infinity, this fantastical observation is a subset which is unobservable by other observer, but it does exist for the local observer. It is important because the subset exists, even though it exists as unobservable to other observers.
+
+## Uniqueness of observation
+
+The sets that I create are unique to me. Other people may create similar, but importantly not _equal_, sets. The angle of definition, the temperature of light, my position in space. All these go into the definition of my collection of subsets. Based on our nature, last time I checked, humans are unable to occupy the space that another human or object has.
+
+This means that each observation is unique to me. This means that all my observations, grouped together, make up 'me'. 
+
+* 'I' am a collection of sensatory inputs.
+* 'I' am 'me', a collection of observations. 
+* I am a 'collection of observations'. 
+* I am a collection (ready the tinfoil hat! Or should I say... we are a collection?!)
+But importantly, I am a unique set of observations. No other person has a duplicate set. It may be close, but not the same.
 
 ## Takeaway
 
 Observation is the act of subsetting.
 
 If the context is an orange:
-* We subset from the larger context, the reality that is an orange. 
-* The orange itself is a subset of infinity
-* I as a human am a subset of infinity
 
-If the context is infinity
-* We subset from the larger context, the reality that is infinity. 
-* Infinity is not a subset of infinity
-* I as a human am a subset of infinity
-* I can only subset infinity using my capabilities, I cannot observe all of infinity
+* I observe (subset) from the larger context, the context that is an orange. 
+* The orange itself is a subset of infinity.
+* At maximum capacity, I can observe (subset) some aspects of the orange, but not all, not at once.
+* This is due to my limitations as a human observer.
+* In theory a more powerful observer would be able to create a greater subset than that of mine.
+
+If the context is infinity:
+
+* I observe (subset) from the larger context, the context that is infinity. 
+* Infinity is not a subset of infinity.
+* I as a human am a subset of infinity.
+* I can only subset infinity. 
+* Using my capabilities, I cannot observe all of infinity.
+
+&#8756; Observation is the act of subsetting. Not the equality of the original context
+ 
