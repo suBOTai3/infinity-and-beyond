@@ -43,32 +43,33 @@ General Infinity, all that is, is:
 * [Inclusive of beginnings and ends](general_infinity/no-beginning-contains-itself.md) 
     * It has no beginning, though it contains many beginnings. 
     * It has no end, though it contains many ends
-* All of our observable reality
-* All of unobservable reality
+    * Has no origin, but its origin is in itself - inside infinity <sup>**</sup>
+    * Has no end, but its end is in itself - inside infinity <sup>**</sup>
+    * Has no boundaries, but the observable imposed boundaries is in itself - inside infinity <sup>**</sup>
+    * Contains all other subset infinities such as numbers, ranges. 
+* [Partially observable](observation/observation.md)    
+    * All of our observable reality
+    * All of unobservable reality
 * All that is inside and outside our observable reality
 * Infinite in all directions
 * Inside that which is
 * Outside that which is 
-* Has no origin, but its origin is in itself - inside infinity <sup>**</sup>
-* Has no end, but its end is in itself - inside infinity <sup>**</sup>
-* Has no boundaries, but the observable imposed boundaries is in itself - inside infinity <sup>**</sup>
 * Can be negative, but not false (?)
-* Contains all other subset infinities such as numbers, ranges. 
 * Continually generative -> more observation inside GI drives more creation + generation
 * Continually destructive
 * Choatic and ordered
-* The source of all that we can observe and be
-* The destination of all that we can observe and be
+* The source of all is
+* The destination of all that is
   
 <sup>**</sup> Yes its confusing. But the same is true of a circle/sphere in a manner of speaking. This example is an oversimplification but more relatable and describable.
 
 General infinity is not:
 
 * A subset of anything
-* A set that contains other sets. By claiming that it is a set, a boundary is imposed on it. This is a false premise imposing a boundary on that which has no boundary
-* A number
+* A _set_ that contains other sets. By claiming that it is a set, a boundary is imposed on it. This is a false premise imposing a boundary on that which has no boundary
+* Numerically expressable. A number has boundaries
 * Describable - it cannot be defined. Assigning definition to it means that inifinity is captured. By definition this is impossible. If you could contain infinity, the set that contains it needs to be greater than infinity, which it cannot. Therefore, description of initinity is a subset of infinity, not the capturing of it. Ininity is not truly describable. We can attempt it, but not complete it.
-* Countable. Yes, I agree, there are countable and uncountable infinities as subsets of the general infinity, but general inifinity itself is uncountable, because one is unable to find the first element which is the start. To count, to enumerate, to define, general infinity, means that you assert that you know the start of infinity. No one can make such a claim. And therefore we can only start at a subset of general infinity, but we cannot count general infinty itself.
+* Countable. Yes, I agree, there are countable and uncountable infinities as subsets of general infinity, but general inifinity itself is uncountable, because one is unable to find the first element which is the start. To count, to enumerate, to define, general infinity, means that you assert that you know the start of infinity. No one can make such a claim. And therefore we can only start at a subset of general infinity, but we cannot count general infinty itself.
 * Segmentable. You cannot truly remove anything from general infinity. You can observe subsets of infinity, but not remove from it. To remove from general infinity you would have to somehow move the thing you have outside of inifinity, which by definition is impossible.
  
 
@@ -86,6 +87,7 @@ A minor infinity:
  * Has its origin in general infinity 
  * Has boundaries that originates in general infinity
  * Is a subset of general infinity
+ * Not segmentable (?): You cannot remove the number 1 from the set of numbers. If you did, how would you advance from 2 => 3? How would you have a coherent conversation? If you 'did' remove it, you're not removing the number itself, you're simply removing your representation of the number from your subset. (?)
 
 Examples
 

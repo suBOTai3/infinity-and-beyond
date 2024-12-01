@@ -10,7 +10,9 @@
 
 ## What I am not:
 
-I don't claim to have full knowledge, and probably ;) never will. It is important to note my field of expertise (software development) and also note my lack of expertise, thought I am willing to learn. What I am NOT is: 
+I don't claim to have full knowledge, and probably ;) never will. It is important to note my field of expertise (software development) and also note my lack of expertise, though I am willing to learn. 
+
+What I am NOT is: 
 
 * A mathematician <sup>**</sup>
 * A philosopher <sup>**</sup>

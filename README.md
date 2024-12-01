@@ -22,6 +22,8 @@ You should carefully evaluate what you believe of reality, what you believe of i
 And now for the main course: Infinity and its implications for personal reality.
 
 * [Infinity definition](infnitity.md)
+* [Observation](observation/observation.md)
+* [Reality](reality/reality.md)
 * [General Definitions](definitions.md)
 
 
