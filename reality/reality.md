@@ -1,8 +1,16 @@
 # Reality
 
-In the context of general infinity, reality is the observations that an observer makes.
+In the context of general infinity, reality consists of the observations that an observer makes.
  
-Reality is made through observation. Reality is not observed. Personal reality is restricted to:
+* Reality is _made_. 
+* Reality is _made_ through observation. 
+* Reality is not equal to observation.
+* Obvervation of subsets of infinity results in reality
+    * Reality is subjective
+    * 
+    * Infinity is objective
+
+Personal reality is restricted to:
 
 * The capabilities of the observer
 * The compute or signaling processing power

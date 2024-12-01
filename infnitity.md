@@ -38,10 +38,11 @@ See [reality](reality.md)
 
 General Infinity, all that is, is:
 
-* That which is infinite, or perhaps, `that which is` 
+* That which is infinite, or perhaps better, `that which is` 
 * This includes `that which is not` since to `not be` means that you have to attempt observation of `that which is not`. This attempt `is` a `that which is`
-* It has no beginning, though it contains many beginnings. 
-* It has no end, though it contains many ends
+* [Inclusive of beginnings and ends](general_infinity/no-beginning-contains-itself.md) 
+    * It has no beginning, though it contains many beginnings. 
+    * It has no end, though it contains many ends
 * All of our observable reality
 * All of unobservable reality
 * All that is inside and outside our observable reality
