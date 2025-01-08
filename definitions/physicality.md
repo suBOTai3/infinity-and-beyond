@@ -6,7 +6,7 @@ In the larger context of general infinity, our smallest unit of measure, our qua
 
 The shape of this quantum is measure in our definition of space, which is an X,Y,Z measurement with optional time dimension.
 
-![Single quantum](images/single_quantum.png)
+![Single quantum](../images/single_quantum.png)
 
 The topic here is not about the definition of quanta. I will leave that to the experts.
 

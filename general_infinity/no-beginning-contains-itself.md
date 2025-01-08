@@ -2,7 +2,7 @@
 
 This is a difficult concept.
 
-In infinity, a lay person can say 'there is a beginning of infinity'. And we would be right. But the truth is that this is the boundary of our observational capability (See [observation](../../observation.md))
+In infinity, a lay person can say 'there is a beginning of infinity'. And we would be right. But the truth is that this is the boundary of our observational capability (See [observation](../definitions/observation.md))
 
 Infinity has no beginning.
 But where did infinity come from? 
@@ -80,7 +80,7 @@ This is the concept take away from General infinity, infinite in all dimensions,
 * It is an attempt by an observer to make sense of infinity by subsetting it into manageble chunks of information.
 
 Side note:  The only possible observation we could make as a starting point would be quanta. 
-(See [phsyicality](../../physicality.md)). Quanta, from an observer's perspective, is the starting point, the smallest unit of measure, of infinity.
+(See [physicality](../definitions/physicality.md)). Quanta, from an observer's perspective, is the starting point, the smallest unit of measure, of infinity.
 
 Another way to phrase this would be: Quanta is our observable starting point of infinity.
 
