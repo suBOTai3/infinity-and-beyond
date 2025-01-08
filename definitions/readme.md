@@ -43,3 +43,6 @@ Subsetting is used to retrieve specific observable parts (or observably subsets)
 
 ## Unbounded context
 A unbounded context is not a set. It has no boundary. The boundary cannot be defined and observed.
+
+## Unshareable observable subsets
+An unshareable unobservable subset is a set which is only observable by a single observer, or no other observers. An example would be an emotion. It can only be observed by the person or animal, but no one else. Others may hear or read of it, but they cannot observe it.

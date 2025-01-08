@@ -22,35 +22,37 @@ I listen. By listening, I'm:
 * taking a manageable chunk of sound and using it for interpretation.
 * using my sense of sound to reduce the amount of data to a manageable chunk.
 
-
 ## Example: An orange
 
-When I look at an orange, I see the 'front' of the orange. I do not observe every molecule, every fibre, every juicy bit.
+When I look at an orange, I see the orange. However I do not see every molecule, every fibre, every juicy bit.
 
-I'm reducing the total load of information to a set which is managable for my capacity as an observer.
+Using my sight, I'm reducing the total load of information to a visual data set which is managable for my capacity as an observer.
 
+From this we can learn some things about observation.
 
 What observation is:
-* Taking a subset from a larger set, a chunk of data, and grouping it into a manageable chunk. E.g. my view of an orange is just that. A view. My view is not the orange itself. My view is only a representation of an orange. I am able to go into great detail, but I can never fully grasp the totality of an orange in one single instant. I can only work with subsets.
+* Taking a subset from a larger set, a chunk of data, and grouping it into a manageable chunk. E.g. my view of an orange is just that. A view. My view is not the orange itself. My view is only a representation of an orange. I am able to go into great detail by approaching it from different angles, stepping back, zooming in, etc., but I can never fully grasp the totality of an orange in one single instant. I can only work with subsets because my capacity as an observer is limited.
 
 What observation is not:
-* Taking the entire set from a larger set, and using it in its original form. E.g. my view of an orange is not the orange itself. It is a representation, a subset, of the larger set, but it is not _equal_ to the set.
+* Taking the entire set from a larger set, and using it in its original form. E.g. my view of an orange is not the orange itself. It is a representation, a subset of the data, of the larger set, but it is not _equal_ to the set.
 
 ## Example: Infinity
 
 When I attempt to perceive infinity I'm unable to. I don't see all that is. I simply reduce it to a subset of manageble chunks of information.
 
 What observation is:
-* Taking a subset from a larger set, a chunk of data, and grouping it into a manageable chunk. E.g. my view of infinity is just that. A view. It is not infinity itself. It is only a representation of infinity. Another human. A table. A tree. An atom. I am able to go into great detail, but I can never fully grasp the totality of infinity in one single instant. I can only work with subsets.
+* Taking a subset from a larger set, a chunk of data, and grouping it into a manageable chunk. E.g. my view of infinity is just that. A view. It is not infinity itself. It is only a representation of infinity. Another human. A table. A tree. An atom. I am able to go into great detail, but I can never fully grasp the totality of infinity in one single instant. I can only work with subsets.A notable exception to this would be thoughts, specifically my own. Any thought I conjure, I have access to the entire set in one. I do not have a subset. However, in the future, when I'm trying to recall a dim memory, it is a subset.
 
 What observation is not:
-* Taking the entire set from a larger set, and using it in its original form. E.g. my view of infinity is not infinity itself. It is a representation, a subset, of the larger set, but it is not _equal_ to the set. I can look at 10 numbers, but not all numbers. I can look at a human, a table, a tree, but I cannot look at infinity. The only way to observe infinity is to be infinite one self.
+* Taking the entire set from a larger set, and using it in its original form. E.g. my view of infinity is not infinity itself. It is a representation, a subset, of the larger set, but it is not _equal_ to the set. I can look at 10 numbers, but not _all_ numbers. I can look at a human, a table, a tree, and see their extents. The boundaries. But I cannot look at infinity and observe the beginning _and_ the end _and_ everything inbetween. The only way to observe infinity is to be 
+1. infinite one self in terms of capacity for observation or 
+2. be the author of each element of the infinity and create all of them at the same time
 
-A note:
-* Being able to observe, to subset, from infinity, does not mean that the subject matter of the observation does not exist outside our observation.
-* The subject matter does exit, but it has not been grouped into a manageble chunk yet.
-* Once the observation is made, the context exists in our range of observation
-* If the observation is fantastical (hallucination), it still exists as a subset to the observer. The greater context here is the observer, which exists as a subset of infinity. In the larger context of infinity, this fantastical observation is a subset which is unobservable by other observer, but it does exist for the local observer. It is important because the subset exists, even though it exists as unobservable to other observers.
+Further expanding upon this:
+* Being able to observe, to form a manageable subset or chunk, from infinity, does not mean that the subject matter (of the observation) does not exist outside our observation.
+* The subject matter does exist, but it has not been grouped into a manageble chunk yet.
+* Once the observation is made, once the unmanageable context is create, it exists for us.
+* If the observation is fantastical (hallucination), it still exists as a subset of the observer. The greater context here is the observer, which exists as a subset of infinity. In the larger context of infinity, this fantastical observation is a subset which is unobservable by any other observer, but it does exist for the author. It is important because the subset exists, even though it exists as unobservable to other observers.
 
 ## Uniqueness of observation
 
