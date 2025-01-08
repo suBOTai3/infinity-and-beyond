@@ -1,13 +1,28 @@
 # Observation
 
-Observation is the act of subsetting a larger set.
+Definition: 
 
-When observer, the observer (conveniently named 'me' or 'I') creates manageable sets of information to work with. 
+> Observation is the act of forming a manageable [bounded context](readme.md#bounded-context) from a larger manageable or unmanagable[bounded](readme.md#bounded-context) or [unbounded](readme.md#unbounded-context)  context.
 
-I look. By looking, I'm creating a subset of infinity.
+Bringing it back to General Infinity
 
-I hear. By hearing, I'm creating a subset of infinity.
- 
+>  Observation is the act of forming a manageable [bounded context](readme.md#bounded-context) from [unbounded context](readme.md#unbounded-context).
+
+That's a mouth full, let's expand.
+
+When an observer observes (imagine that!), the observer (conveniently named 'me' or 'I') creates manageable sets of information to work with from another set of data which is unmanageable. Let's start with our senses.
+
+I look at {table|orange|.?|thing}. By looking, I'm:
+* creating a subset from a larger set.
+* taking a manageable chunk of visual data and using it for interpretation.
+* using my sense of sight to reduce the amount of data to a manageable chunk.
+
+I listen. By listening, I'm:
+* creating a subset from a larger set.
+* taking a manageable chunk of sound and using it for interpretation.
+* using my sense of sound to reduce the amount of data to a manageable chunk.
+
+
 ## Example: An orange
 
 When I look at an orange, I see the 'front' of the orange. I do not observe every molecule, every fibre, every juicy bit.
