@@ -27,3 +27,6 @@ The same applies to General Infinity
 * We're limited in our observational capacity to traverse time.
 * If we were able to change that, we would be able to re-introduce the unique set of observations, 'me', into the current reality of the person performing the observation.
 * Since this observation of the collection can be made at any time (even after death), our set of observations is not bound by time. Once there is a starting point, it is infinite (not time bound). At any point after the starting point, even before the starting point, if you can traverse infinity, you can re-introduce the set.
+* The prowess required to do these things are, frankly, outside our bounds. BUT... that doesn't mean our sets don't exist. It simply means once our set becomes part of infinity it is there.
+
+The real head scratcher here is: Before our sets are started, if you could traverse infinity, you would find me.
