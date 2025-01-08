@@ -1,6 +1,6 @@
 # Observation
 
-Definition: 
+## Definition: 
 
 > Observation is the act of forming a manageable [bounded context](readme.md#bounded-context) from a larger manageable or unmanagable[bounded](readme.md#bounded-context) or [unbounded](readme.md#unbounded-context)  context.
 
@@ -52,18 +52,26 @@ Further expanding upon this:
 * Being able to observe, to form a manageable subset or chunk, from infinity, does not mean that the subject matter (of the observation) does not exist outside our observation.
 * The subject matter does exist, but it has not been grouped into a manageble chunk yet.
 * Once the observation is made, once the unmanageable context is create, it exists for us.
-* If the observation is fantastical (hallucination), it still exists as a subset of the observer. The greater context here is the observer, which exists as a subset of infinity. In the larger context of infinity, this fantastical observation is a subset which is unobservable by any other observer, but it does exist for the author. It is important because the subset exists, even though it exists as unobservable to other observers.
+* If the observation's subject matter is fantastical (hallucination), it still exists as a subset of the observer. The greater context here is the observer, which exists as a subset of infinity. In the larger context of infinity, this fantastical observation is a subset which is unobservable by any other observer, but it does exist for the author. It is important because the subset exists, even though it exists as unobservable to other observers. See also [unshareable observeable subsets](readme.md#unshareable-observable-subsets)
 
 ## Uniqueness of observation
 
-The sets that I create are unique to me. Other people may create similar, but importantly not _equal_, sets. The angle of definition, the temperature of light, my position in space. All these go into the definition of my collection of subsets. Based on our nature, last time I checked, humans are unable to occupy the space that another human or object has.
+The total sets of observations that I create
+*  from my point of view
+* within my limitations
+* using the senses or tools at my disposal
+* in the timeframe I live in
+* in the coordinates I occupy
+* grouped into a single set called 'me' or 'I'
+
+Are unique to me. Other people may create similar, but importantly not _equal_, sets. The angle of definition, the temperature of light, my position in space. All these go into the definition of 'me' or 'I'. Based on our nature, last time I checked, humans are unable to occupy the space that another human or object has.
 
 This means that each observation is unique to me. This means that all my observations, grouped together, make up 'me'. 
 
-* 'I' am a collection of sensatory inputs.
+* 'I' am a collection of sensory inputs.
 * 'I' am 'me', a collection of observations. 
 * I am a 'collection of observations'. 
-* I am a collection (ready the tinfoil hat! Or should I say... we are a collection?!)
+* I am a collection! (ready the tinfoil hat! Or should I say... we are a collection?!)
 But importantly, I am a unique set of observations. No other person has a duplicate set. It may be close, but not the same.
 
 ## Takeaway
